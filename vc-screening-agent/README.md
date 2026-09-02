@@ -14,9 +14,9 @@ A lightweight AI workflow for first-pass venture screening. It is designed for a
 
 ## Investment thesis used for the challenge
 
-- **Stage:** Series B, with selective flexibility around adjacent stages.
+- **Stage:** Series B/C/D, with selective flexibility around adjacent stages.
 - **Geography:** North America, with selective interest in India, Singapore, and China.
-- **Sector:** Enterprise AI, AI infrastructure, and applied AI software.
+- **Sector:** Enterprise AI, AI infrastructure, and applied AI software. Fintech B2B, Femtech, and Climate Tech.
 - **Founder profile:** Technical founders building B2B products with defensible technical or workflow advantages.
 - **What matters:** Clear enterprise pain, evidence of product pull, credible path to durable margins, meaningful technical differentiation, and a market large enough to support venture-scale outcomes.
 
